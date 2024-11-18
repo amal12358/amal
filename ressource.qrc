@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../app-interface-finale123.png</file>
+        <file>1234.png</file>
+    </qresource>
+</RCC>
